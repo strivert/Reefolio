@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reefolio/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Reefolio/static/js/main.d9fdb787.chunk.js",
+    "main.js.map": "/Reefolio/static/js/main.d9fdb787.chunk.js.map",
+    "runtime-main.js": "/Reefolio/static/js/runtime-main.21594beb.js",
+    "runtime-main.js.map": "/Reefolio/static/js/runtime-main.21594beb.js.map",
+    "static/js/2.4287e797.chunk.js": "/Reefolio/static/js/2.4287e797.chunk.js",
+    "static/js/2.4287e797.chunk.js.map": "/Reefolio/static/js/2.4287e797.chunk.js.map",
+    "index.html": "/Reefolio/index.html",
+    "precache-manifest.f8264e6400574d456e4f6cde44550820.js": "/Reefolio/precache-manifest.f8264e6400574d456e4f6cde44550820.js",
+    "service-worker.js": "/Reefolio/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Reefolio/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4287e797.chunk.js.LICENSE.txt": "/Reefolio/static/js/2.4287e797.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21594beb.js",
+    "static/js/2.4287e797.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d9fdb787.chunk.js"
+  ]
+}
